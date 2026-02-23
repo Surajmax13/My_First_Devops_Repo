@@ -7,4 +7,3 @@ This is repo for DevOps project
 
 # This is my thirt change
 
-# understand of git add made change  fouth
