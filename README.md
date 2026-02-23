@@ -5,4 +5,6 @@ This is repo for DevOps project
 
 # this is my second change
 
-# This is my thirt chnage
+# This is my thirt change
+
+# understand of git add made change  fouth
